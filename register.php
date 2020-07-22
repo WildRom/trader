@@ -42,7 +42,7 @@ session_start();
             <h4 class="eng">Create your an account</h4>
           </div>
           <!-- forma -->
-          <form action="inc/reg.php" method="post">
+          <form action="game.php" method="post">
             <div class="form-input">
               <span><i class="fa fa-user"></i></span>
               <input type="text" name="user_nick" placeholder="Enter nick..." required>
@@ -65,6 +65,7 @@ session_start();
               </div>
             </div>
             <div class="text-left mb-3">
+              <input type="hidden" name="new_game" value="true">
               <button type="submit" name="register" value="register" class="btn ltu">Kurti personažą</button>
               <button type="submit" name="register" value="register" class="btn eng">Create account</button>
             </div>
@@ -72,7 +73,7 @@ session_start();
               <a href="index.php" class="login-link">Junkis</a>
             </div>
             <div style="color: #777" class="eng">Already have an account?
-              <a href="index.php" class="login-link">Register here</a>
+              <a href="index.php" class="login-link">Login here</a>
             </div>
           </form><!-- end  forma -->
         </div><!-- end form box -->
