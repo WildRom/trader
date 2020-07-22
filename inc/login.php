@@ -1,18 +1,21 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
-  <title>Login</title>
-  <script>
-  function setCookie(name, value) {
-    document.cookie = name + "=" + escape(value) + "; path=/";
-  }
-  </script>
+	<title>Login</title>
+	<script>
+	function setCookie(name, value) {
+		document.cookie = name + "=" + escape(value) + "; path=/";
+	}
+	</script>
 </head>
 <?php
 
 // Connect to DB
 require_once 'config.php';
-session_start();
+if (!isset($_SESSION)) {
+    session_start();
+}
 
 //get POST info
 if ($_POST['login'] === 'login') {

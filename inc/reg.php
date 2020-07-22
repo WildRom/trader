@@ -16,7 +16,10 @@
 
 // Connect to DB
 require_once 'config.php';
-session_start();
+if (!isset($_SESSION)) {
+    session_start();
+}
+
 
 //get POST info
 if ($_POST['register'] === 'register') {

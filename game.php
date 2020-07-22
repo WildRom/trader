@@ -2,7 +2,10 @@
 
 // Connect to DB
 require_once 'inc/config.php';
-session_start();
+if (!isset($_SESSION)) {
+    session_start();
+}
+
 
 if ((!empty($_POST)) && ($_POST['login'])) {
     //Login to game
