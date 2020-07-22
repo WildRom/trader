@@ -41,10 +41,6 @@ if ((!empty($_POST)) && ($_POST['login'])) {
 
                 setcookie("TRADER_NICK_NAME", $user);
                 setcookie("TRADER_SESSION", $sessionID);
-                echo "Game starts!";
-                echo '<pre>';
-                var_dump($user_data);
-                echo '</pre>';
             }
         }
 
@@ -56,6 +52,12 @@ if ((!empty($_POST)) && ($_POST['login'])) {
     var_dump($_POST);
     echo '</pre>';
 } else {
+    // SOMETHING WRONG
     // header("Location: index.php");
     echo "As nezinau";
 }
+// ***************************************** GAME **********************************
+echo "Game starts!";
+echo '<pre>';
+var_dump($user_data);
+echo '</pre>';
