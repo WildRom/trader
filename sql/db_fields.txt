@@ -1,0 +1,19 @@
+trade_users:
+  user_id,
+  nick_name,
+  password,
+  sessionID,
+  user_email,
+
+  character_birth_day,
+  port,     //port, 0 if leave
+  destination,  //port, 0 if in port
+  start_travel, //time
+  end_travel, //time
+  character_money,        //1000
+  experience,             //0
+  level,                  //1
+
+  dateCreate,
+  dateModify
+************************

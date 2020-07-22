@@ -1,0 +1,12 @@
+London - Amsterdam - Port of Amsterdam, Netherlands, 310 nm, 1.5 day;
+London - Le Havre  - Port of Le Havre, France, 220 nm, 1 day 
+London - Lisabona  - Port of Lisboa (Lisbon), Portugal, 1300 nm, 6 days
+London - Malaga    - Port of Malaga, Spain, 1700 nm, 7 days
+London - Barselona - Port of Barcelona, Spain, 2150 nm, 9 days
+London - Venezia   - Porto di Venezia (Venice), Italy, 3400 nm, 15 days
+London - Bisau     - Port of Bissau, Guinea-Bissau, 3200, 14 days
+London - Mumbay    - Port of Mumbai , India, 7100 nm, 30 days
+London - Kalkuta   - Port of Kolkata, India, 8850 nm, 37 days
+London - Shanghai  - Port of Shanghai, China, 11900 nm, 50 days
+London - Yokohoma  - Port of Yokohama, Japan, 13000 nm, 55 days
+
