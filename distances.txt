@@ -1,40 +1,52 @@
-1-2  London - Le Havre  - Port of Le Havre, France, 220 nm, 1 day								10nk - 2h
-1-3  London - Amsterdam - Port of Amsterdam, Netherlands, 310 nm, 1.5 day;			10nk - 3h
-1-4  London - Malaga    - Port of Malaga, Spain, 1700 nm, 7 days								10nk - 6h
-1-5  London - Lisbon    - Port of Lisboa (Lisbon), Portugal, 1300 nm, 6 days	  10nk - 5h
-1-6  London - Barcelona - Port of Barcelona, Spain, 2150 nm, 9 days							10nk - 8h
-1-7  London - Venezia   - Porto di Venezia (Venice), Italy, 3400 nm, 15 days		10nk - 11h
-1-8  London - Bisau     - Port of Bissau, Guinea-Bissau, 3200, 14 days					10nk - 10h
-1-9  London - Mumbay    - Port of Mumbai , India, 7100 nm, 30 days							10nk - 12h
-1-10 London - Kolkata   - Port of Kolkata, India, 8850 nm, 37 days							10nk - 15h
-1-11 London - Shanghai  - Port of Shanghai, China, 11900 nm, 50 days						10nk - 17h
-1-12 London - Yokohoma  - Port of Yokohama, Japan, 13000 nm, 55 days						10nk - 20h
+1-2  London - Le Havre  - of Le Havre, France, 220 nm, 1 day							10nk - 2h
+1-3  London - Amsterdam - of Amsterdam, Netherlands, 310 nm, 1.5 day;			10nk - 3h
+1-4  London - Malaga    - of Malaga, Spain, 1700 nm, 7 days								10nk - 6h
+1-5  London - Lisbon    - of Lisboa (Lisbon), Portugal, 1300 nm, 6 days	  10nk - 5h
+1-6  London - Barcelona - of Barcelona, Spain, 2150 nm, 9 days						10nk - 8h
+1-7  London - Venezia   - di Venezia (Venice), Italy, 3400 nm, 15 days		10nk - 11h
+1-8  London - Bisau     - of Bissau, Guinea-Bissau, 3200, 14 days					10nk - 10h
+1-9  London - Mumbay    - of Mumbai , India, 7100 nm, 30 days							10nk - 15h
+1-10 London - Kolkata   - of Kolkata, India, 8850 nm, 37 days							10nk - 18h
+1-11 London - Shanghai  - of Shanghai, China, 11900 nm, 50 days						10nk - 21h
+1-12 London - Yokohoma  - of Yokohama, Japan, 13000 nm, 55 days						10nk - 24h
+
+1-2  London - Le Havre  			220 			2h
+1-3  London - Amsterdam 			310 			3h
+1-4  London - Malaga    			1700 			6h
+1-5  London - Lisbon    			1300 			5h
+1-6  London - Barcelona 			2150 			8h
+1-7  London - Venezia   			3400 			11h
+1-8  London - Bisau     			3200 			10h
+1-9  London - Mumbay    			7100 			15h
+1-10 London - Kolkata   			8850 			18h
+1-11 London - Shanghai  			11900 		21h
+1-12 London - Yokohoma  			13000 		24h
 
 2.Le Havre
 2-1     Le Havre - London					220nm			2h
-2-3     Le Havre - Amsterdam						
-2-4     Le Havre - Malaga
-2-5     Le Havre - Lisbon
-2-6     Le Havre - Barcelona
-2-7     Le Havre - Venezia
-2-8     Le Havre - Bissau
-2-9     Le Havre - Mumbai
-2-10    Le Havre - Kolkata
-2-11    Le Havre - Shanghai
-2-12    Le Havre - Yokohama
+2-3     Le Havre - Amsterdam			370nm			3
+2-4     Le Havre - Malaga					1500nm		5
+2-5     Le Havre - Lisbon					1100nm		4
+2-6     Le Havre - Barcelona			2000nm		7
+2-7     Le Havre - Venezia				3300nm		11
+2-8     Le Havre - Bissau					3100nm		10
+2-9     Le Havre - Mumbai					7000nm		15
+2-10    Le Havre - Kolkata				8600nm		18
+2-11    Le Havre - Shanghai				11800nm		21
+2-12    Le Havre - Yokohama				12850nm		24
 
 3.Amsterdam
 3-1     Amsterdam - London				310nm			3h
-3-2     Amsterdam - Le Havre
-3-4     Amsterdam - Malaga
-3-5     Amsterdam - Lisbon
-3-6     Amsterdam - Barcelona
-3-7     Amsterdam - Venezia
-3-8     Amsterdam - Bissau
-3-9     Amsterdam - Mumbai
-3-10    Amsterdam - Kolkata
-3-11    Amsterdam - Shanghai
-3-12    Amsterdam - Yokohama
+3-2     Amsterdam - Le Havre			370nm			4
+3-4     Amsterdam - Malaga				1800nm		5
+3-5     Amsterdam - Lisbon				1400nm
+3-6     Amsterdam - Barcelona			2300nm
+3-7     Amsterdam - Venezia				3600nm
+3-8     Amsterdam - Bissau				3400nm
+3-9     Amsterdam - Mumbai				7300nm
+3-10    Amsterdam - Kolkata				8900nm
+3-11    Amsterdam - Shanghai			12100nm
+3-12    Amsterdam - Yokohama			13100nm
 
 4.Malaga
 4-1     Malaga - London						1700nm			6h
@@ -141,7 +153,7 @@
 11-12    Shanghai - Yokohama
 
 12.Yokohama
-12-1     Yokohama - London						13000nm			23h
+12-1     Yokohama - London						13000nm			24h
 12-2     Yokohama - Le Havre
 12-3     Yokohama - Amsterdam
 12-4     Yokohama - Malaga
