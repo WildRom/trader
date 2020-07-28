@@ -1,3 +1,7 @@
+http://ports.com/sea-route/
+
+24h - 1440 minutes - 86600 sekundes - ~7sec/nmile
+
 1-2  London - Le Havre  - of Le Havre, France, 220 nm, 1 day							10nk - 2h
 1-3  London - Amsterdam - of Amsterdam, Netherlands, 310 nm, 1.5 day;			10nk - 3h
 1-4  London - Malaga    - of Malaga, Spain, 1700 nm, 7 days								10nk - 6h
@@ -33,134 +37,134 @@
 2-9     Le Havre - Mumbai					7000nm		15
 2-10    Le Havre - Kolkata				8600nm		18
 2-11    Le Havre - Shanghai				11800nm		21
-2-12    Le Havre - Yokohama				12850nm		24
+2-12    Le Havre - Yokohama				12900nm		24
 
 3.Amsterdam
 3-1     Amsterdam - London				310nm			3h
 3-2     Amsterdam - Le Havre			370nm			4
-3-4     Amsterdam - Malaga				1800nm		5
-3-5     Amsterdam - Lisbon				1400nm
-3-6     Amsterdam - Barcelona			2300nm
-3-7     Amsterdam - Venezia				3600nm
-3-8     Amsterdam - Bissau				3400nm
-3-9     Amsterdam - Mumbai				7300nm
-3-10    Amsterdam - Kolkata				8900nm
-3-11    Amsterdam - Shanghai			12100nm
-3-12    Amsterdam - Yokohama			13100nm
+3-4     Amsterdam - Malaga				1800nm		6
+3-5     Amsterdam - Lisbon				1400nm		5
+3-6     Amsterdam - Barcelona			2300nm		8
+3-7     Amsterdam - Venezia				3600nm		12
+3-8     Amsterdam - Bissau				3400nm		11
+3-9     Amsterdam - Mumbai				7300nm		16
+3-10    Amsterdam - Kolkata				8900nm		19
+3-11    Amsterdam - Shanghai			12100nm		22
+3-12    Amsterdam - Yokohama			13100nm		25
 
 4.Malaga
-4-1     Malaga - London						1700nm			6h
-4-2     Malaga - Le Havre
-4-3     Malaga - Amsterdam
-4-5     Malaga - Lisbon
-4-6     Malaga - Barcelona
-4-7     Malaga - Venezia
-4-8     Malaga - Bissau
-4-9     Malaga - Mumbai
-4-10    Malaga - Kolkata
-4-11    Malaga - Shanghai
-4-12    Malaga - Yokohama
+4-1     Malaga - London						1700nm		6h
+4-2     Malaga - Le Havre					1500nm		5
+4-3     Malaga - Amsterdam				1800nm		6
+4-5     Malaga - Lisbon						445				4
+4-6     Malaga - Barcelona				495				4
+4-7     Malaga - Venezia					1800			6
+4-8     Malaga - Bissau						2100			7
+4-9     Malaga - Mumbai						5500			13
+4-10    Malaga - Kolkata					7100			15
+4-11    Malaga - Shanghai				  10300			20
+4-12    Malaga - Yokohama					11400			21
 
 5.Lisbon
-5-1     Lisbon - London						1300nm			5h
-5-2     Lisbon - Le Havre
-5-3     Lisbon - Amsterdam
-5-4     Lisbon - Malaga
-5-6     Lisbon - Barcelona
-5-7     Lisbon - Venezia
-5-8     Lisbon - Bissau
-5-9     Lisbon - Mumbai
-5-10    Lisbon - Kolkata
-5-11    Lisbon - Shanghai
-5-12    Lisbon - Yokohama
+5-1     Lisbon - London						1300nm		5h
+5-2     Lisbon - Le Havre					1100nm		4
+5-3     Lisbon - Amsterdam				1400nm		5
+5-4     Lisbon - Malaga						445				4
+5-6     Lisbon - Barcelona				940				
+5-7     Lisbon - Venezia					2200
+5-8     Lisbon - Bissau						2100
+5-9     Lisbon - Mumbai						5900
+5-10    Lisbon - Kolkata					7600
+5-11    Lisbon - Shanghai					10700
+5-12    Lisbon - Yokohama					11800
 
 6.Barcelona
-6-1     Barcelona - London						2150nm			8h
-6-2     Barcelona - Le Havre
-6-3     Barcelona - Amsterdam
-6-4     Barcelona - Malaga
-6-5     Barcelona - Lisbon
-6-7     Barcelona - Venezia
-6-8     Barcelona - Bissau
-6-9     Barcelona - Mumbai
-6-10    Barcelona - Kolkata
-6-11    Barcelona - Shanghai
-6-12    Barcelona - Yokohama
+6-1     Barcelona - London						2150nm		8h
+6-2     Barcelona - Le Havre					2000
+6-3     Barcelona - Amsterdam					2300
+6-4     Barcelona - Malaga						495				4
+6-5     Barcelona - Lisbon						940
+6-7     Barcelona - Venezia						1600
+6-8     Barcelona - Bissau						2600
+6-9     Barcelona - Mumbai						5300
+6-10    Barcelona - Kolkata						6900
+6-11    Barcelona - Shanghai					10100
+6-12    Barcelona - Yokohama					11200
 
 7.Venezia
-7-1     Venezia - London						3400nm			11h
-7-2     Venezia - Le Havre
-7-3     Venezia - Amsterdam
-7-4     Venezia - Malaga
-7-5     Venezia - Lisbon
-7-6     Venezia - Barcelona
-7-8     Venezia - Bissau
-7-9     Venezia - Mumbai
-7-10    Venezia - Kolkata
-7-11    Venezia - Shanghai
-7-12    Venezia - Yokohama
+7-1     Venezia - London						3400 	 	 11h
+7-2     Venezia - Le Havre					3300
+7-3     Venezia - Amsterdam					3600
+7-4     Venezia - Malaga						1800			6
+7-5     Venezia - Lisbon						2200
+7-6     Venezia - Barcelona					1600
+7-8     Venezia - Bissau						3900
+7-9     Venezia - Mumbai						5000
+7-10    Venezia - Kolkata						6700
+7-11    Venezia - Shanghai					9800
+7-12    Venezia - Yokohama					10900
 
 8.Bissau
-8-1     Bissau - London						3200nm			10h
-8-2     Bissau - Le Havre
-8-3     Bissau - Amsterdam
-8-4     Bissau - Malaga
-8-5     Bissau - Lisbon
-8-6     Bissau - Barcelona
-8-7     Bissau - Venezia
-8-9     Bissau - Mumbai
-8-10    Bissau - Kolkata
-8-11    Bissau - Shanghai
-8-12    Bissau - Yokohama
+8-1     Bissau - London						3200nm		10h
+8-2     Bissau - Le Havre					3100
+8-3     Bissau - Amsterdam				3400
+8-4     Bissau - Malaga						2100			7
+8-5     Bissau - Lisbon						2100
+8-6     Bissau - Barcelona				2600
+8-7     Bissau - Venezia					3900
+8-9     Bissau - Mumbai						7600
+8-10    Bissau - Kolkata					9200
+8-11    Bissau - Shanghai					12400
+8-12    Bissau - Yokohama					13500
 
 9.Mumbai
-9-1     Mumbai - London						7100nm			15h
-9-2     Mumbai - Le Havre
-9-3     Mumbai - Amsterdam
-9-4     Mumbai - Malaga
-9-5     Mumbai - Lisbon
-9-6     Mumbai - Barcelona
-9-7     Mumbai - Venezia
-9-8     Mumbai - Bissau
-9-10    Mumbai - Kolkata
-9-11    Mumbai - Shanghai
-9-12    Mumbai - Yokohama
+9-1     Mumbai - London						7100nm		15h
+9-2     Mumbai - Le Havre					7000
+9-3     Mumbai - Amsterdam				7300
+9-4     Mumbai - Malaga						5500			13
+9-5     Mumbai - Lisbon						5900
+9-6     Mumbai - Barcelona				5300
+9-7     Mumbai - Venezia					5000
+9-8     Mumbai - Bissau						7600
+9-10    Mumbai - Kolkata					2100
+9-11    Mumbai - Shanghai					5300
+9-12    Mumbai - Yokohama					6400
 
 10.Kolkata
-10-1     Kolkata - London						8850nm			18h
+10-1     Kolkata - London						8850nm		18h
 10-2     Kolkata - Le Havre
 10-3     Kolkata - Amsterdam
-10-4     Kolkata - Malaga
-10-5     Kolkata - Lisbon
-10-6     Kolkata - Barcelona
-10-7     Kolkata - Venezia
-10-8     Kolkata - Bissau
-10-9     Kolkata - Mumbai
-10-11    Kolkata - Shanghai
-10-12    Kolkata - Yokohama
+10-4     Kolkata - Malaga						7100			15
+10-5     Kolkata - Lisbon						7600
+10-6     Kolkata - Barcelona				6900
+10-7     Kolkata - Venezia					6700
+10-8     Kolkata - Bissau						9200
+10-9     Kolkata - Mumbai						2100
+10-11    Kolkata - Shanghai					4700
+10-12    Kolkata - Yokohama					5800
 
 11.Shanghai
-11-1     Shanghai - London						11900nm			21h
-11-2     Shanghai - Le Havre
+11-1     Shanghai - London						11900nm		21h
+11-2     Shanghai - Le Havre					11800
 11-3     Shanghai - Amsterdam
-11-4     Shanghai - Malaga
-11-5     Shanghai - Lisbon
-11-6     Shanghai - Barcelona
-11-7     Shanghai - Venezia
-11-8     Shanghai - Bissau
-11-9     Shanghai - Mumbai
-11-10    Shanghai - Kolkata
-11-12    Shanghai - Yokohama
+11-4     Shanghai - Malaga						10300			20
+11-5     Shanghai - Lisbon						10700
+11-6     Shanghai - Barcelona					10100
+11-7     Shanghai - Venezia						9800
+11-8     Shanghai - Bissau						12400
+11-9     Shanghai - Mumbai						5300
+11-10    Shanghai - Kolkata						4700
+11-12    Shanghai - Yokohama					1200
 
 12.Yokohama
-12-1     Yokohama - London						13000nm			24h
-12-2     Yokohama - Le Havre
-12-3     Yokohama - Amsterdam
-12-4     Yokohama - Malaga
-12-5     Yokohama - Lisbon
-12-6     Yokohama - Barcelona
-12-7     Yokohama - Venezia
-12-8     Yokohama - Bissau
-12-9     Yokohama - Mumbai
-12-10    Yokohama - Kolkata
-12-11    Yokohama - Yokohama
+12-1     Yokohama - London						13000nm		24h
+12-2     Yokohama - Le Havre					12900
+12-3     Yokohama - Amsterdam					13100
+12-4     Yokohama - Malaga						11400			21
+12-5     Yokohama - Lisbon						11800
+12-6     Yokohama - Barcelona					11200
+12-7     Yokohama - Venezia						10900
+12-8     Yokohama - Bissau						13500
+12-9     Yokohama - Mumbai						6400
+12-10    Yokohama - Kolkata						5800
+12-11    Yokohama - Shanghai					1200
