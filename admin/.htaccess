@@ -1,0 +1,6 @@
+AuthUserFile /var/www/html/trader.loc/admin/.htpasswd
+AuthGroupFile /dev/null
+AuthName "Secure Document"
+AuthType Basic
+require user Valdas
+require user Denis

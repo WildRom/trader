@@ -57,7 +57,7 @@ if ($_POST['register'] === 'register') {
 
             $query = "INSERT INTO trader_users(
                                 nick_name,
-                                ` password`,
+                                `password`,
                                 sessionID,
                                 user_email,
                                 character_birth_day)

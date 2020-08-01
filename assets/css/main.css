@@ -1,0 +1,82 @@
+@font-face {
+    font-family: Showcard Gothic;
+    src: url("../fonts/showg.ttf");
+}
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    background: #101010;
+    color: white;
+    font-family: "Showcard Gothic";
+}
+.lang {
+    position: absolute;
+    top: 0;
+    right: 0;
+}
+.lang span img {
+    width: 40px;
+    height: 30px;
+    border: none;
+    margin: 30px;
+    padding: 2px;
+    cursor: pointer;
+}
+.lang {
+    display: flex;
+    justify-content: center;
+}
+.container {
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.container img {
+    /*width: 20%;*/
+    margin: 0 0 2rem 6rem;
+}
+.form-box {
+    background: #101010;
+    text-transform: uppercase;
+}
+.row {
+    display: flex;
+    flex-wrap: nowrap;
+    padding: 5px;
+    margin: 5px;
+}
+label {
+    flex:1;
+    text-align: center;
+}
+input {
+    flex: 1;
+    font-size: 1.5rem;
+    border: 2px solid #777777;
+}
+.btn-group {
+    flex-direction: row;
+    justify-content: space-between;
+}
+.btn-group .btn-login, .btn-group a.register {
+    background: #101010;
+    color: white;
+    cursor: pointer;
+    border: none;
+    text-transform: uppercase;
+    font-family: "Showcard Gothic";
+    font-size: .8rem;
+}
+.btn-group a.register {
+    text-decoration: none;
+    margin-left: 5.6rem;
+}
+.errors {
+    color: red;
+}

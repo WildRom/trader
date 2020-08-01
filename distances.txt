@@ -28,49 +28,49 @@ http://ports.com/sea-route/
 
 2.Le Havre
 2-1     Le Havre - London					220nm			2h
-2-3     Le Havre - Amsterdam			370nm			3
+2-3     Le Havre - Amsterdam			    370nm			3
 2-4     Le Havre - Malaga					1500nm		5
 2-5     Le Havre - Lisbon					1100nm		4
-2-6     Le Havre - Barcelona			2000nm		7
-2-7     Le Havre - Venezia				3300nm		11
+2-6     Le Havre - Barcelona			    2000nm		7
+2-7     Le Havre - Venezia				    3300nm		11
 2-8     Le Havre - Bissau					3100nm		10
 2-9     Le Havre - Mumbai					7000nm		15
-2-10    Le Havre - Kolkata				8600nm		18
-2-11    Le Havre - Shanghai				11800nm		21
-2-12    Le Havre - Yokohama				12900nm		24
+2-10    Le Havre - Kolkata				    8600nm		18
+2-11    Le Havre - Shanghai				    11800nm		21
+2-12    Le Havre - Yokohama				    12900nm		24
 
 3.Amsterdam
-3-1     Amsterdam - London				310nm			3h
-3-2     Amsterdam - Le Havre			370nm			4
-3-4     Amsterdam - Malaga				1800nm		6
-3-5     Amsterdam - Lisbon				1400nm		5
-3-6     Amsterdam - Barcelona			2300nm		8
-3-7     Amsterdam - Venezia				3600nm		12
-3-8     Amsterdam - Bissau				3400nm		11
-3-9     Amsterdam - Mumbai				7300nm		16
-3-10    Amsterdam - Kolkata				8900nm		19
-3-11    Amsterdam - Shanghai			12100nm		22
-3-12    Amsterdam - Yokohama			13100nm		25
+3-1     Amsterdam - London				    310nm			3h
+3-2     Amsterdam - Le Havre			    370nm			4
+3-4     Amsterdam - Malaga				    1800nm		6
+3-5     Amsterdam - Lisbon				    1400nm		5
+3-6     Amsterdam - Barcelona			    2300nm		8
+3-7     Amsterdam - Venezia				    3600nm		12
+3-8     Amsterdam - Bissau				    3400nm		11
+3-9     Amsterdam - Mumbai				    7300nm		16
+3-10    Amsterdam - Kolkata				    8900nm		19
+3-11    Amsterdam - Shanghai			    12100nm		22
+3-12    Amsterdam - Yokohama			    13100nm		25
 
 4.Malaga
 4-1     Malaga - London						1700nm		6h
 4-2     Malaga - Le Havre					1500nm		5
-4-3     Malaga - Amsterdam				1800nm		6
+4-3     Malaga - Amsterdam				    1800nm		6
 4-5     Malaga - Lisbon						445				4
-4-6     Malaga - Barcelona				495				4
+4-6     Malaga - Barcelona				    495				4
 4-7     Malaga - Venezia					1800			6
 4-8     Malaga - Bissau						2100			7
 4-9     Malaga - Mumbai						5500			13
 4-10    Malaga - Kolkata					7100			15
-4-11    Malaga - Shanghai				  10300			20
+4-11    Malaga - Shanghai				    10300			20
 4-12    Malaga - Yokohama					11400			21
 
 5.Lisbon
 5-1     Lisbon - London						1300nm		5h
 5-2     Lisbon - Le Havre					1100nm		4
-5-3     Lisbon - Amsterdam				1400nm		5
+5-3     Lisbon - Amsterdam				    1400nm		5
 5-4     Lisbon - Malaga						445				4
-5-6     Lisbon - Barcelona				940				
+5-6     Lisbon - Barcelona				    940
 5-7     Lisbon - Venezia					2200
 5-8     Lisbon - Bissau						2100
 5-9     Lisbon - Mumbai						5900
@@ -79,38 +79,38 @@ http://ports.com/sea-route/
 5-12    Lisbon - Yokohama					11800
 
 6.Barcelona
-6-1     Barcelona - London						2150nm		8h
-6-2     Barcelona - Le Havre					2000
-6-3     Barcelona - Amsterdam					2300
-6-4     Barcelona - Malaga						495				4
-6-5     Barcelona - Lisbon						940
-6-7     Barcelona - Venezia						1600
-6-8     Barcelona - Bissau						2600
-6-9     Barcelona - Mumbai						5300
-6-10    Barcelona - Kolkata						6900
-6-11    Barcelona - Shanghai					10100
-6-12    Barcelona - Yokohama					11200
+6-1     Barcelona - London					2150nm		8h
+6-2     Barcelona - Le Havre				2000
+6-3     Barcelona - Amsterdam				2300
+6-4     Barcelona - Malaga					495				4
+6-5     Barcelona - Lisbon					940
+6-7     Barcelona - Venezia					1600
+6-8     Barcelona - Bissau					2600
+6-9     Barcelona - Mumbai					5300
+6-10    Barcelona - Kolkata					6900
+6-11    Barcelona - Shanghai				10100
+6-12    Barcelona - Yokohama				11200
 
 7.Venezia
-7-1     Venezia - London						3400 	 	 11h
+7-1     Venezia - London					3400 	 	 11h
 7-2     Venezia - Le Havre					3300
 7-3     Venezia - Amsterdam					3600
-7-4     Venezia - Malaga						1800			6
-7-5     Venezia - Lisbon						2200
+7-4     Venezia - Malaga					1800			6
+7-5     Venezia - Lisbon					2200
 7-6     Venezia - Barcelona					1600
-7-8     Venezia - Bissau						3900
-7-9     Venezia - Mumbai						5000
-7-10    Venezia - Kolkata						6700
+7-8     Venezia - Bissau					3900
+7-9     Venezia - Mumbai					5000
+7-10    Venezia - Kolkata					6700
 7-11    Venezia - Shanghai					9800
 7-12    Venezia - Yokohama					10900
 
 8.Bissau
 8-1     Bissau - London						3200nm		10h
 8-2     Bissau - Le Havre					3100
-8-3     Bissau - Amsterdam				3400
+8-3     Bissau - Amsterdam				    3400
 8-4     Bissau - Malaga						2100			7
 8-5     Bissau - Lisbon						2100
-8-6     Bissau - Barcelona				2600
+8-6     Bissau - Barcelona				    2600
 8-7     Bissau - Venezia					3900
 8-9     Bissau - Mumbai						7600
 8-10    Bissau - Kolkata					9200
@@ -120,10 +120,10 @@ http://ports.com/sea-route/
 9.Mumbai
 9-1     Mumbai - London						7100nm		15h
 9-2     Mumbai - Le Havre					7000
-9-3     Mumbai - Amsterdam				7300
+9-3     Mumbai - Amsterdam				    7300
 9-4     Mumbai - Malaga						5500			13
 9-5     Mumbai - Lisbon						5900
-9-6     Mumbai - Barcelona				5300
+9-6     Mumbai - Barcelona				    5300
 9-7     Mumbai - Venezia					5000
 9-8     Mumbai - Bissau						7600
 9-10    Mumbai - Kolkata					2100
@@ -131,15 +131,15 @@ http://ports.com/sea-route/
 9-12    Mumbai - Yokohama					6400
 
 10.Kolkata
-10-1     Kolkata - London						8850nm		18h
+10-1     Kolkata - London					8850nm		18h
 10-2     Kolkata - Le Havre
 10-3     Kolkata - Amsterdam
-10-4     Kolkata - Malaga						7100			15
-10-5     Kolkata - Lisbon						7600
+10-4     Kolkata - Malaga					7100			15
+10-5     Kolkata - Lisbon					7600
 10-6     Kolkata - Barcelona				6900
 10-7     Kolkata - Venezia					6700
-10-8     Kolkata - Bissau						9200
-10-9     Kolkata - Mumbai						2100
+10-8     Kolkata - Bissau					9200
+10-9     Kolkata - Mumbai					2100
 10-11    Kolkata - Shanghai					4700
 10-12    Kolkata - Yokohama					5800
 
@@ -157,7 +157,7 @@ http://ports.com/sea-route/
 11-12    Shanghai - Yokohama					1200
 
 12.Yokohama
-12-1     Yokohama - London						13000nm		24h
+12-1     Yokoham - London						13000nm		24h
 12-2     Yokohama - Le Havre					12900
 12-3     Yokohama - Amsterdam					13100
 12-4     Yokohama - Malaga						11400			21
