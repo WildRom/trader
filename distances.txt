@@ -157,7 +157,7 @@ http://ports.com/sea-route/
 11-12    Shanghai - Yokohama					1200
 
 12.Yokohama
-12-1     Yokoham - London						13000nm		24h
+12-1     Yokohama - London						13000nm		24h
 12-2     Yokohama - Le Havre					12900
 12-3     Yokohama - Amsterdam					13100
 12-4     Yokohama - Malaga						11400			21
