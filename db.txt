@@ -1,0 +1,32 @@
+players:
+
+player_id
+user_id
+ship_id             1
+port_id             1
+dest_id             0
+start               0
+arrive              0
+money               100
+experience          0
+level               1
+dateCreated         int(11)
+dateModify          CURRENT_TIME...
+***************************************************************
+ships:
+
+ship_id
+ship_name
+cargo
+speed
+defence_lvl
+user_lvl
+price
+
+1.Lugger, 100, 6, 2, 1, 1000
+2.Barque, 150, 4, 1, 1, 2000
+3.Schooner, 200, 8, 3, 2, 4000
+4.Fluyt, 300, 10, 3, 3, 6000
+5.Caravel, 300, 14, 4, 4, 15000
+6.Galleon, 400, 15, 5, 5, 30000
+**************************************************************

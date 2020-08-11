@@ -3,9 +3,9 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: localhost:3306
--- Generation Time: Aug 11, 2020 at 02:56 PM
+-- Generation Time: Aug 06, 2020 at 07:21 PM
 -- Server version: 5.7.31-0ubuntu0.18.04.1
--- PHP Version: 7.4.9
+-- PHP Version: 7.4.8
 
 SET SQL_MODE = "NO_AUTO_VALUE_ON_ZERO";
 SET AUTOCOMMIT = 0;
@@ -61,27 +61,26 @@ INSERT INTO `trader_players` (`player_id`, `user_id`, `ship_id`, `port_id`, `des
 CREATE TABLE `trader_ports` (
   `port_id` tinyint(3) UNSIGNED NOT NULL,
   `port_name` varchar(30) NOT NULL,
-  `country` varchar(30) NOT NULL,
-  `user_lvl` tinyint(3) UNSIGNED NOT NULL DEFAULT '1'
+  `country` varchar(30) NOT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8;
 
 --
 -- Dumping data for table `trader_ports`
 --
 
-INSERT INTO `trader_ports` (`port_id`, `port_name`, `country`, `user_lvl`) VALUES
-(1, 'London', 'UK', 1),
-(2, 'Le Havre', 'France', 1),
-(3, 'Amsterdam', 'Netherlands', 1),
-(4, 'Lisbon', 'Portugal', 1),
-(5, 'Malaga', 'Spain', 2),
-(6, 'Barcelona', 'Spain', 2),
-(7, 'Venice', 'Italy', 3),
-(8, 'Bissau', 'Guinea-Bissau', 3),
-(9, 'Mumbai', 'India', 4),
-(10, 'Kolkata', 'India', 4),
-(11, 'Shanghai', 'China', 5),
-(12, 'Yokohama', 'Japan', 5);
+INSERT INTO `trader_ports` (`port_id`, `port_name`, `country`) VALUES
+(1, 'London', 'UK'),
+(2, 'Le Havre', 'France'),
+(3, 'Amsterdam', 'Netherlands'),
+(4, 'Lisbon', 'Portugal'),
+(5, 'Malaga', 'Spain'),
+(6, 'Barcelona', 'Spain'),
+(7, 'Venice', 'Italy'),
+(8, 'Bissau', 'Guinea-Bissau'),
+(9, 'Mumbai', 'India'),
+(10, 'Kolkata', 'India'),
+(11, 'Shanghai', 'China'),
+(12, 'Yokohama', 'Japan');
 
 -- --------------------------------------------------------
 

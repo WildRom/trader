@@ -3,6 +3,10 @@
 require_once 'inc/config.php';
 require_once 'inc/funcs.inc.php';
 
+
+//strip_tags
+//htmlspecialchar
+
 if(isset($_POST['user'])) {
     $user = trim($_POST['user']);
     $query = "SELECT nick_name FROM trader_users WHERE nick_name=:nick";

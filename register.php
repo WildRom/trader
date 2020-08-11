@@ -27,22 +27,33 @@ if(isset($_POST['register'])) {
                                 nick_name,
                                 `password`,
                                 sessionID,
-                                user_email,
-                                character_birth_day)
+                                user_email)
                         VALUES(
                                 :name,
                                 :password,
                                 :sessionID,
-                                :user_email,
-                                :character_birth_day)";
+                                :user_email)";
+      if (!empty($db)) {
         $stmt = $db->prepare($query);
+      }
         $stmt->execute([
             'name' => $user,
             'password' => $password,
             'sessionID' => $sessionID,
-            'user_email' => $email,
-            'character_birth_day' => $time
+            'user_email' => $email
         ]);
+      //Insert players data
+        $userID = $db->lastInsertId();
+        $time = time();
+        $query = "INSERT INTO trader_players(
+                                user_id,
+                                dateCreated)
+                        VALUES(
+                                :userID,
+                                :dateCreated)";
+        $stmt= $db->prepare($query);
+        $stmt->execute(['userID' => $userID, 'dateCreated' => $time]);
+
         $_SESSION['user'] = $user;
         $_SESSION['sessionID'] = $sessionID;
         header("Location: game.php");

@@ -37,6 +37,7 @@ if (!isset($_SESSION)) {
           <th>End Port</th>
           <th>Distance in Nautical Miles</th>
           <th>Time in min.(10kn)</th>
+          <th>User Level</th>
 <!--          <th><button type="button" class="btn btn-success btn-x add" name="add"><i class="fas fa-plus-square"></i></button></th>-->
         </tr>
         </thead>
@@ -44,15 +45,16 @@ if (!isset($_SESSION)) {
         <tr>
           <td><select class="form-control" name="start" id="port-start"><option value="">Select Port</option></select></td>
           <td><select class="form-control" name="end" id="port-end"><option value="">Select Port</option></select></td>
-          <td><input type="number" name="nm" class="form-control" id="inputNM" min="0" max="100000" value="0"></td>
+          <td><input type="number" name="nm" class="form-control" id="inputNM" min="0" max="100000" autofocus></td>
           <td><input type="number" name="time" class="form-control" id="timeMinutes" min="0" max="100000"
                      value="0"></td>
+          <td><input type="number" name="user_lvl" class="form-control" id="userLVL" min="1" max="10" value="1"></td>
         </tr>
         </tbody>
       </table>
     </div>
     <div class="text-center">
-      <button type="submit" class="btn btn-info add" name="add-route" value="add-route">Add</button>
+      <button type="submit" class="btn btn-info add" name="add-route" value="add-route" id="add-route">Add</button>
     </div>
   </form>
 </div>
